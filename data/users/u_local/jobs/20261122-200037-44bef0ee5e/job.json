@@ -1,0 +1,185 @@
+{
+ "id": "20261122-200037-44bef0ee5e",
+ "user": "u_local",
+ "kind": "video",
+ "creator": null,
+ "dir": "/home/srb/Downloads/ClipKontrast/data/users/u_local/jobs/20261122-200037-44bef0ee5e",
+ "created": 1795357837.8769634,
+ "source": {
+  "type": "url",
+  "url": "https://www.youtube.com/watch?v=6i84_ZH-gTA",
+  "name": "https://www.youtube.com/watch?v=6i84_ZH-gTA"
+ },
+ "options": {
+  "max_clips": 1,
+  "min_len": 5,
+  "max_len": 10,
+  "style": "bounce",
+  "layout": "split",
+  "quality": 720,
+  "range_start": null,
+  "range_end": null,
+  "captions": true,
+  "lang": "auto",
+  "caption_lang": "auto",
+  "zoom": true,
+  "watermark": "@Cinnabrit",
+  "tighten": true,
+  "cam_hint": "auto",
+  "cam_box": [
+   0.0,
+   0.0,
+   0.28,
+   0.28
+  ],
+  "game_box": null,
+  "split": "small",
+  "tag": true,
+  "tag_handle": "",
+  "tag_platforms": [],
+  "tag_style": "clean",
+  "tag_pos": "bottom_left",
+  "exact": false
+ },
+ "status": "done",
+ "stage": "Done",
+ "progress": 1.0,
+ "title": "Our First Reaction to GTA VI!",
+ "uploader": "Cinna",
+ "duration": 2075.0,
+ "clips": [
+  {
+   "start": 550.34,
+   "end": 555.84,
+   "score": 90,
+   "category": "other",
+   "hook": "PEOPLE ARE PEOPLE SO WHAT SHOULD",
+   "title": "Wild moment",
+   "description": "",
+   "hashtags": [
+    "GTA6",
+    "GTA6Game",
+    "ViceCity",
+    "RockstarGames",
+    "GTA6Launch"
+   ],
+   "highlight_words": [],
+   "reason": "Picked from the sound, the words, because the AI key wasn't answering.",
+   "id": "clip01",
+   "style": "bounce",
+   "layout": "split",
+   "captions": true,
+   "zoom": true,
+   "watermark": "@Cinnabrit",
+   "tighten": true,
+   "tag": true,
+   "tag_handle": "",
+   "tag_platforms": [],
+   "tag_style": "clean",
+   "tag_pos": "bottom_left",
+   "status": "done",
+   "version": 1,
+   "facecam": [
+    0,
+    0,
+    538,
+    302
+   ],
+   "camera": "box",
+   "camera_from": "manual",
+   "split": "small",
+   "caption_by": "english",
+   "cap_lang": "en",
+   "lang_for": [
+    550.34,
+    555.84
+   ],
+   "fixed_words": [
+    {
+     "w": "People",
+     "s": 550.49,
+     "e": 551.05
+    },
+    {
+     "w": "are",
+     "s": 551.05,
+     "e": 551.52
+    },
+    {
+     "w": "people,",
+     "s": 551.52,
+     "e": 552.0
+    },
+    {
+     "w": "so",
+     "s": 552.0,
+     "e": 552.48
+    },
+    {
+     "w": "what",
+     "s": 552.48,
+     "e": 552.8
+    },
+    {
+     "w": "should",
+     "s": 552.8,
+     "e": 553.28
+    },
+    {
+     "w": "be",
+     "s": 553.28,
+     "e": 553.88
+    },
+    {
+     "w": "you",
+     "s": 554.41,
+     "e": 554.64
+    },
+    {
+     "w": "are.",
+     "s": 554.64,
+     "e": 555.24
+    }
+   ],
+   "fixed_for": [
+    550.34,
+    555.84,
+    "en2e"
+   ],
+   "file": "clip01.mp4",
+   "cover": "clip01.jpg",
+   "tightened": 0,
+   "layout_used": "split",
+   "layout_note": "",
+   "error": null,
+   "made_at": 1795358297.0674577
+  }
+ ],
+ "error": null,
+ "ai": {
+  "model": null,
+  "tokens": 0,
+  "log": [
+   "The AI was unavailable, so clips were picked from the sound and the words."
+  ],
+  "note": "The AI was unavailable, so clips were picked from the sound and the words."
+ },
+ "handle": "Cinnabrit",
+ "platform": "youtube",
+ "timings": {
+  "audio": 31,
+  "transcript": 259,
+  "picking": 0,
+  "clips": 168
+ },
+ "game": "Grand Theft Auto VI",
+ "done_blocks": 3,
+ "thumb": true,
+ "transcript_from": "own",
+ "lang": "en",
+ "source_path": "/home/srb/Downloads/ClipKontrast/data/users/u_local/jobs/20261122-200037-44bef0ee5e/source.mp4",
+ "width": 1920,
+ "height": 1080,
+ "frame_saved": true,
+ "took": 459
+}

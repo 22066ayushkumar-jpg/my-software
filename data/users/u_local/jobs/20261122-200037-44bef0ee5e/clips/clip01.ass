@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Poppins ExtraBold,132,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,7,0,5,0,0,0,1
+Style: Hook,Poppins ExtraBold,96,&H0014100E,&H0014100E,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Mark,Poppins ExtraBold,46,&H60FFFFFF,&H60FFFFFF,&H90000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 3,0:00:00.00,0:00:05.50,Hook,,0,0,0,,{\an7\pos(0,0)\fad(160,0)\c&HFFFFFF&\p1}m 267 523 l 813 523 b 839 523 839 523 839 549 l 839 667 b 839 693 839 693 813 693 l 267 693 b 241 693 241 693 241 667 l 241 549 b 241 523 241 523 267 523{\p0}
+Dialogue: 4,0:00:00.00,0:00:05.50,Hook,,0,0,0,,{\an5\pos(540,582)\fad(160,0)\fs96}PEOPLE ARE PEOPLE
+Dialogue: 4,0:00:00.00,0:00:05.50,Hook,,0,0,0,,{\an5\pos(540,645)\fad(160,0)\fs96}SO WHAT SHOULD
+Dialogue: 5,0:00:00.00,0:00:05.50,Mark,,0,0,0,,{\an5\pos(540,1562)\q2}@Cinnabrit
+Dialogue: 2,0:00:00.15,0:00:00.71,Cap,,0,0,0,,{\an5\pos(296,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx108\fscy108)\t(90,200,\fscx103\fscy103)}PEOPLE
+Dialogue: 1,0:00:00.71,0:00:01.66,Cap,,0,0,0,,{\an5\pos(296,1442)\fs132\c&HFFFFFF&\fscx103\fscy103\t(0,90,\fscx100\fscy100)}PEOPLE
+Dialogue: 1,0:00:00.15,0:00:00.71,Cap,,0,0,0,,{\an5\pos(540,1442)\fs132\c&HFFFFFF&}ARE
+Dialogue: 2,0:00:00.71,0:00:01.18,Cap,,0,0,0,,{\an5\pos(540,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx112\fscy112)\t(90,200,\fscx107\fscy107)}ARE
+Dialogue: 1,0:00:01.18,0:00:01.66,Cap,,0,0,0,,{\an5\pos(540,1442)\fs132\c&HFFFFFF&\fscx107\fscy107\t(0,90,\fscx100\fscy100)}ARE
+Dialogue: 1,0:00:00.15,0:00:01.18,Cap,,0,0,0,,{\an5\pos(784,1442)\fs132\c&HFFFFFF&}PEOPLE
+Dialogue: 2,0:00:01.18,0:00:01.66,Cap,,0,0,0,,{\an5\pos(784,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx108\fscy108)\t(90,200,\fscx103\fscy103)}PEOPLE
+Dialogue: 2,0:00:01.66,0:00:02.14,Cap,,0,0,0,,{\an5\pos(234,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx112\fscy112)\t(90,200,\fscx107\fscy107)}SO
+Dialogue: 1,0:00:02.14,0:00:02.94,Cap,,0,0,0,,{\an5\pos(234,1442)\fs132\c&HFFFFFF&\fscx107\fscy107\t(0,90,\fscx100\fscy100)}SO
+Dialogue: 1,0:00:01.66,0:00:02.14,Cap,,0,0,0,,{\an5\pos(440,1442)\fs132\c&HFFFFFF&}WHAT
+Dialogue: 2,0:00:02.14,0:00:02.46,Cap,,0,0,0,,{\an5\pos(440,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx109\fscy109)\t(90,200,\fscx104\fscy104)}WHAT
+Dialogue: 1,0:00:02.46,0:00:02.94,Cap,,0,0,0,,{\an5\pos(440,1442)\fs132\c&HFFFFFF&\fscx104\fscy104\t(0,90,\fscx100\fscy100)}WHAT
+Dialogue: 1,0:00:01.66,0:00:02.46,Cap,,0,0,0,,{\an5\pos(746,1442)\fs132\c&HFFFFFF&}SHOULD
+Dialogue: 2,0:00:02.46,0:00:02.94,Cap,,0,0,0,,{\an5\pos(746,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx107\fscy107)\t(90,200,\fscx102\fscy102)}SHOULD
+Dialogue: 2,0:00:02.94,0:00:03.79,Cap,,0,0,0,,{\an5\pos(540,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx112\fscy112)\t(90,200,\fscx107\fscy107)}BE
+Dialogue: 2,0:00:04.07,0:00:04.30,Cap,,0,0,0,,{\an5\pos(449,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx112\fscy112)\t(90,200,\fscx107\fscy107)}YOU
+Dialogue: 1,0:00:04.30,0:00:05.15,Cap,,0,0,0,,{\an5\pos(449,1442)\fs132\c&HFFFFFF&\fscx107\fscy107\t(0,90,\fscx100\fscy100)}YOU
+Dialogue: 1,0:00:04.07,0:00:04.30,Cap,,0,0,0,,{\an5\pos(640,1442)\fs132\c&HFFFFFF&}ARE
+Dialogue: 2,0:00:04.30,0:00:05.15,Cap,,0,0,0,,{\an5\pos(640,1442)\fs132\c&H00F0FF&\fscx94\fscy94\t(0,90,\fscx112\fscy112)\t(90,200,\fscx107\fscy107)}ARE
